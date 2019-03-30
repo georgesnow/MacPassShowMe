@@ -8,3 +8,4 @@ when unhiding will put the focus in the search box for quick access to your data
 
 You could also tweak it for another app and a different menu option of preference.
 
+![](MacPassShowMe-demo.gif)
