@@ -1,6 +1,7 @@
 # MacPassShowMe
 AppleScript - (un)Hide MacPass and focus on search (best with FastScripts global keyboard shortcut)
 
+FastScripts - https://red-sweater.com/fastscripts/
 
 Simple Applescript to use with FastScripts. Allows the user with Fastscripts to assign 
 a global keyboard shortcut just for MacPass that will Hide/Unhide the app and
